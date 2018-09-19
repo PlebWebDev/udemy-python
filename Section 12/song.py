@@ -79,6 +79,14 @@ class Artist:
         self.albums.append(album)
 
 
+def find_object(field, object_list):
+    """Check ' object_list' to see if an object with a 'name' attribute equal to 'field' exists, return it if so."""
+    for item in object_list:
+        if item.name == field:
+            return item
+        return None
+
+
 def load_data():
     new_artist = None
     new_album = None
@@ -93,10 +101,15 @@ def load_data():
 
             if new_artist is None:
                 new_artist = Artist(artist_field)
+                artist_list.append(new_artist)
             elif new_artist.name != artist_field:
                 # We've just read details for a new artist
-                # store the current album in the currents artists collection then create a new artist object
+                # retrieve the artist object and add it to the artist list.
+                # otherwise create a new artist object and add it to the artist list.
                 new_artist.add_album(new_album)
+                if new_artist is None:
+                    new_artist = Artist(artist_field)
+                    artist_list.append(new_artist)
                 artist_list.append(new_artist)
                 new_artist = Artist(artist_field)
                 new_album = None
@@ -130,7 +143,7 @@ def create_checkfile(artist_list):
             for new_album in new_artist.albums:
                 for new_song in new_album.tracks:
                     print("{0.name}\t{1.name}\t{1.year}\t{2.title}".format(new_artist, new_album, new_song),
-                        file=checkfile)
+                          file=checkfile)
 
 
 if __name__ == '__main__':
@@ -138,39 +151,3 @@ if __name__ == '__main__':
     print("There are {} artists".format(len(artists)))
 
     create_checkfile(artists)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

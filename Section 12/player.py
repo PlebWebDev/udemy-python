@@ -35,7 +35,6 @@ class Player(object):
         return self._score
 
     @score.setter
-
     def score(self, score):
         self._score = score
 

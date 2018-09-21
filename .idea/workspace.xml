@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6f5c495-0307-4308-a82e-d39a3c8367b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section 12/enemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 12/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section 12/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 12/Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 12/ducks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section 12/html_doc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Udemy_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Udemy_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 12/checkfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Section 12/checkfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 12/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section 12/song.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 12/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section 12/enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 12/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section 12/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 12/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section 12/player.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,42 +66,50 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="-445970142">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="164" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="164" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Section 12/player.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Section 12/enemy.py">
+        <entry file="file://$PROJECT_DIR$/Section 12/html_doc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-              <folding>
-                <marker date="1537476255856" expanded="true" signature="12:13" ph="..." />
-                <marker date="1537476255856" expanded="true" signature="845:846" ph="..." />
-                <marker date="1537476255856" expanded="true" signature="845:851" ph="..." />
-                <marker date="1537476255856" expanded="true" signature="875:884" ph="..." />
-                <marker date="1537476255856" expanded="true" signature="1116:1394" ph="..." />
-                <marker date="1537476255856" expanded="true" signature="1425:1430" ph="..." />
-              </folding>
+            <state relative-caret-position="829">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Section 12/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="39" selection-start-column="39" selection-end-column="39" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Section 12/ducks.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -145,15 +156,16 @@
         <option value="$PROJECT_DIR$/Section 12/demo.py" />
         <option value="$PROJECT_DIR$/Section 12/song.py" />
         <option value="$PROJECT_DIR$/Section 12/player.py" />
-        <option value="$PROJECT_DIR$/Section 12/enemy.py" />
         <option value="$PROJECT_DIR$/Section 12/main.py" />
+        <option value="$PROJECT_DIR$/Section 12/enemy.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1913" />
-    <option name="width" value="974" />
-    <option name="height" value="1087" />
+    <option name="x" value="954" />
+    <option name="y" value="-25" />
+    <option name="width" value="1294" />
+    <option name="height" value="1448" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -161,51 +173,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Udemy_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy_Sections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy_Sections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Udemy_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy_Sections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy_Sections" type="462c0819:PsiDirectoryNode" />
               <item name="Section 12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Udemy_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (Udemy_Python) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Udemy_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (Udemy_Python) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jcbre\PycharmProjects\Udemy_Sections\Section 12" />
       <recent name="C:\Users\jcbre\PycharmProjects\Udemy_Python\Section 12" />
       <recent name="C:\Users\jcbre\PycharmProjects\Udemy_Python\section 11" />
       <recent name="C:\Users\jcbre\PycharmProjects\Udemy_Python\Section 7" />
       <recent name="C:\Users\jcbre\PycharmProjects\Udemy_Python\Section 6" />
-      <recent name="C:\Users\jcbre\PycharmProjects\Udemy_Python\Section 5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jcbre\PycharmProjects\Udemy_Sections\Section 12" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.enemy">
     <configuration name="accounts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Udemy_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,8 +335,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.enemy" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.song" />
         <item itemvalue="Python.oop" />
         <item itemvalue="Python.accounts" />
@@ -400,11 +400,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12328767" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32848233" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32948583" />
@@ -412,8 +412,8 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32948583" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.24948025" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.1826484" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39954337" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -686,23 +686,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Section 12/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Section 12/enemy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-          <folding>
-            <marker date="1537476255856" expanded="true" signature="12:13" ph="..." />
-            <marker date="1537476255856" expanded="true" signature="845:846" ph="..." />
-            <marker date="1537476255856" expanded="true" signature="845:851" ph="..." />
-            <marker date="1537476255856" expanded="true" signature="875:884" ph="..." />
-            <marker date="1537476255856" expanded="true" signature="1116:1394" ph="..." />
-            <marker date="1537476255856" expanded="true" signature="1425:1430" ph="..." />
-          </folding>
+        <state relative-caret-position="1080">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 12/ducks.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 12/html_doc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
